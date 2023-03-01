@@ -1,5 +1,6 @@
 body{
     padding:0px 100px 100px 100px;
+    background-color: ghostwhite;
 
     font-family: 'Times New Roman', Times, serif;
 
@@ -98,55 +99,124 @@ background-color: black;
 
 
 }
+
 #heading2{
 text-align: center;
 
 }
 
 #under1{
-margin-left: 50%;
-margin-top: -40% ;
+margin-left: 55%;
+margin-top: -25% ;
 
 
 }
 #under2{
-margin-left: 60%;
-margin-top: -20%;
+margin-left: 50%;
+margin-top: -15%;
 
 
 }
-#image5{
-    
-margin-left: 20%;
+#above{
+    margin-top: -25%;
+    margin-left: 60%;
+
+
 
 }
+#heading3{
+font-size: 60px;
+
+
+}
+.interior{
+    text-align: center;
+    font-size: 70px;
+
+
+}
+ .collection{
+    text-align: center;
+    font-size: 70px;
+
+
+ }
  
 .card1{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    
+
+    
 
 
 
 }
+.card2{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    
 
+}
+.card3{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    
+
+
+
+}
 .container{
-    max-width: 1020px;
+    max-width: 1000px;
     margin: auto;
+    
 
 
 }
 .footer{
-    padding:70px;
+    padding:10px;
+    margin-top: 20%;
 
 
 }
 .row{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    list-style-type: none;
+    
 
 }
 .footer-col{
     width: 25%;
     padding: 0 15px;
+    
 
+
+
+}
+.subscribe{
+    margin-top: -20%;
+    margin-left: 5%;
+
+
+
+}
+#button5{
+    border: none;
+    padding: 3px 3px;
+    color:white;
+    font-weight: bold;
+    background-color: black;
+    
+}
+input{
+    padding: 4px 20px;
 
 
 }
