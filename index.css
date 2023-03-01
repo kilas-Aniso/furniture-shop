@@ -1,0 +1,152 @@
+body{
+    padding:0px 100px 100px 100px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+.content{
+    
+margin-left: 5%;
+margin-right: 5%;
+font-size: larger;
+  
+    
+
+
+}
+button{
+    border: none;
+padding: 10px 30px;
+color:white;
+font-weight: bold;
+background-color: black;
+
+
+
+}
+.logo{
+    font-weight: bold;
+
+
+
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px 0;
+
+
+
+
+}
+
+nav ul{
+    list-style-type: none;
+    text-align: right;
+    width: 100%;
+    padding-right: 30px;
+    
+
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 10px;
+    
+
+
+
+}
+#heading1{
+    
+    font-size: 70px;
+    margin-top: -1%;
+    
+
+
+
+
+}
+#image1{
+    margin-left: 30%;
+    margin-top: -15%;
+
+}
+#image2{
+    margin-top: -20%;
+
+
+
+ } 
+ 
+#button1{
+border: none;
+padding: 10px 30px;
+color:white;
+font-weight: bold;
+background-color: black;
+}
+.image34{
+    margin-left: 30%;
+    margin-top: -10%;
+
+
+
+
+}
+#heading2{
+text-align: center;
+
+}
+
+#under1{
+margin-left: 50%;
+margin-top: -40% ;
+
+
+}
+#under2{
+margin-left: 60%;
+margin-top: -20%;
+
+
+}
+#image5{
+    
+margin-left: 20%;
+
+}
+ 
+.card1{
+
+
+
+}
+
+.container{
+    max-width: 1020px;
+    margin: auto;
+
+
+}
+.footer{
+    padding:70px;
+
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+
+
+
+}
